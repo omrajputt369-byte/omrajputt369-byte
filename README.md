@@ -21,7 +21,7 @@
   <a href="mailto:omrajputt369@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="www.linkedin.com/in/om-rajput369">
+  <a href="https://www.linkedin.com/in/om-rajput369/">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://www.instagram.com/omrajputt55?igsh=MXdnaGxhM3JoMjNyaw%3D%3D&utm_source=qr">
