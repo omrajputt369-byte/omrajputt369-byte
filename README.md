@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   </a>
-  <a href="https://discord.gg/xDJXuU7Fdt">
+  <a href="https://discord.com/@kabir.17">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
