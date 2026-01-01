@@ -63,9 +63,9 @@
 - Improving Git & GitHub workflow
 ---
 
-### 🧠 Most Used Languages
+### 🧠 Most Used Language
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omrajputt369-byte&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omrajputt369-byte&theme=tokyonight" />
 </p>
 ---
 
