@@ -3,7 +3,7 @@
 </p>
 
 ## Hi, I'm Om Rajput 👋  
-**1st-year Computer Science (Data Science) student** 
+**Computer Science (Data Science) student** 
 
 💡 *Crafting logic and elegance in every line of code.*
 
